@@ -12,6 +12,16 @@
 
 body {
   font-family: "Poppins", sans-serif;
+  font-size: 18px;
+}
+
+footer {
+  background-color: var(--veryDarkViolet);
+  color: var(--grayishViolet);
+}
+
+footer h4 {
+  color: white;
 }
 
 .attribution {
